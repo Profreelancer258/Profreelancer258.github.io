@@ -14,5 +14,12 @@ header {
   padding: 10px 20px;
   text-align: center;
 }
+.responsive-image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 
 /* Add more styles as needed */
